@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - "master"
+      - "drission-page-experimental"
 
 jobs:
   tag-release:
